@@ -1,0 +1,20 @@
+{
+  "name": "revivetoday-beta",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Retro revival guidance",
+  "main": "index.js",
+  "authors": {
+    "name": "soup-bowl",
+    "email": "code@soupbowl.io"
+  },
+  "repository": "https://github.com/soup-bowl/revivetoday-beta/revivetoday-beta",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
